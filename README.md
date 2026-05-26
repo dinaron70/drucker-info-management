@@ -2,23 +2,23 @@
 Repositório dedicado à construção de um segundo cérebro sobre Gestão de Sistemas de Informação, inspirado nos ensinamentos de Peter Drucker. Contém curadoria de fontes, engenharia de prompts, resumos estruturados, glossário e miniguia de estudo para apoiar revisões futuras.
 The Peter Drucker Philosophy: Leadership, Management, and Effectiveness
 
-1. Contexto e Objetivos
+1. Contexto e Objetivos  
 Este caderno temático explora como os princípios de Peter Drucker podem ser aplicados à Gestão de Sistemas de Informação (GSI).
 
-Objetivos de estudo:
+Objetivos de estudo:  
     • Entender como Drucker relaciona informação e tomada de decisão.
     • Identificar práticas de gestão que fortalecem o uso estratégico de sistemas de informação.
     • Criar um conjunto de prompts que apoiem revisões futuras e aplicações práticas.
 
-2. Curadoria de Fontes 
+2. Curadoria de Fontes  
 FONTES DE VÍDEO: https://www.youtube.com/watch?v=VeE-0O9Imlk https://www.youtube.com/watch?v=Edlwkdcm5wA https://www.youtube.com/watch?v=nunovSAwdAI https://www.youtube.com/watch?v=MdJXYrK2fdM https://www.youtube.com/watch?v=a21-FFkWxbg https://www.youtube.com/watch?v=ymIhD9UV4qg
 FONTES DE TEXTO: https://www.rdstation.com/blog/agencias/peter-drucker/?gad_source=1&gad_campaignid=23838015584&gbraid=0AAAAAC8pkCm2pp6_oIopzyhtlyrHFquAK&gclid=CjwKCAjw5s_QBhAdEiwADD_gBvKVk5XT5DGYIp7AtXM1HtESq3KXQMPI-VxcOIaoGcfzKZ0xOzsyuhoCrEgQAvD_BwE
 https://maisretorno.com/portal/termos/p/peter-drucker
 https://napratica.org.br/noticias/peter-drucker-pai-da-administracao-moderna
 https://www.ibccoaching.com.br/artigos-ibc/frases/frase-coaching-peter-drucker/
 
-Engenharia de Prompts
-Prompt 1 
+Engenharia de Prompts  
+Prompt 1   
 Pergunta: Explique como a descentralização proposta por Drucker pode ser aplicada em sistemas de informações corporativas.
 Resposta obtida: A aplicação da descentralização proposta por Peter Drucker em sistemas de informação (SI) corporativos transforma a tecnologia de uma ferramenta de controle centralizado em um meio para a autonomia e o autocontrole dos especialistas.
 Aqui estão as formas fundamentais de aplicar esse conceito, conforme os ensinamentos de Drucker:
