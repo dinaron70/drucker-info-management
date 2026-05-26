@@ -11,7 +11,7 @@ Este caderno temático explora como os princípios de Peter Drucker podem ser ap
     • Criar um conjunto de prompts que apoiem revisões futuras e aplicações práticas.
 
 ## 2. Curadoria de Fontes  
-FONTES DE VÍDEO:   https://www.youtube.com/watch?v=VeE-0O9Imlk https://www.youtube.com/watch?v=Edlwkdcm5wA https://www.youtube.com/watch?v=nunovSAwdAI https://www.youtube.com/watch?v=MdJXYrK2fdM https://www.youtube.com/watch?v=a21-FFkWxbg https://www.youtube.com/watch?v=ymIhD9UV4qg   
+FONTES DE VÍDEO:<br>https://www.youtube.com/watch?v=VeE-0O9Imlk https://www.youtube.com/watch?v=Edlwkdcm5wA https://www.youtube.com/watch?v=nunovSAwdAI https://www.youtube.com/watch?v=MdJXYrK2fdM https://www.youtube.com/watch?v=a21-FFkWxbg https://www.youtube.com/watch?v=ymIhD9UV4qg   
 FONTES DE TEXTO:   https://www.rdstation.com/blog/agencias/peter-drucker/?gad_source=1&gad_campaignid=23838015584&gbraid=0AAAAAC8pkCm2pp6_oIopzyhtlyrHFquAK&gclid=CjwKCAjw5s_QBhAdEiwADD_gBvKVk5XT5DGYIp7AtXM1HtESq3KXQMPI-VxcOIaoGcfzKZ0xOzsyuhoCrEgQAvD_BwE
 https://maisretorno.com/portal/termos/p/peter-drucker
 https://napratica.org.br/noticias/peter-drucker-pai-da-administracao-moderna
